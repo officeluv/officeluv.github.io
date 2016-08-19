@@ -1,0 +1,8 @@
+# Site settings
+title: OfficeLuv Product Team
+tag_text: Officeluv
+description: Things related to building a great product at OfficeLuv
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
