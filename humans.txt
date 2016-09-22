@@ -19,6 +19,9 @@ I8                             8I
     Name: Josh Beckman (andjosh)
     Location: Chicago
     
+    Name: Jane Kim (janeskim)
+    Location: Chicago
+    
     Name: Jack Kent (jjsk5th)
     Location: Chicago
 
