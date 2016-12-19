@@ -22,6 +22,9 @@ I8                             8I
     Name: Jane Kim (janeskim)
     Location: Chicago
     
+    Name: Nevzat Cubukcu
+    Location: Chicago
+    
     Name: Jack Kent (jjsk5th)
     Location: Chicago
 
