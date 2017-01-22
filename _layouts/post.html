@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+    <p class="item-meta">
+        One of our series of <a href="/topics">Discussion Topics</a><br>
+        <small itemprop="datePublished">{{ page.date | date_to_string }}</small>
+    </p>
+    <div class="item-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+</article>

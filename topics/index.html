@@ -1,0 +1,20 @@
+---
+layout: default
+title: Discussion Topics
+---
+<p>The OfficeLuv product team selects a weekly topics for discussion. Each member can bring a video, article, presentation, website, or some such thing to the group. We then vote on one to discuss the following week. Here are the ones we've chosen.</p>
+{% for topic in site.topics %}
+<div class="item">
+    <h3 class="item-title">
+        <a href="{{topic.url}}">
+            {{topic.title}}
+        </a>
+    </h3>
+    <p class="item-meta">
+        <small class="item-meta-date">
+            {{ topic.date | date_to_string }}
+        </small>
+    </p>
+    {{topic.content}}
+</div>
+{% endfor %}

@@ -4,5 +4,8 @@ tag_text: Officeluv
 description: Things related to building a great product at OfficeLuv
 
 # Build settings
+collections:
+  topics:
+    output: true
 markdown: kramdown
 exclude: ["README.md"]
