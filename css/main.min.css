@@ -2,6 +2,9 @@
 .item {
     margin-bottom: 2rem;
 }
+.item > a {
+    margin-right: 2rem;
+}
 .item-meta {
     margin-left: 1rem;
     margin-top: 0;
