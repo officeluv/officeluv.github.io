@@ -17,10 +17,6 @@ I8                             8I
 /* TEAM */
 
     Name: Josh Beckman (andjosh)
-    Location: Chicago
-    
-    Name: Jane Kim (janeskim)
-    Location: Chicago
  
     Name: You?????
     Site: mailto:josh@officeluv.com
