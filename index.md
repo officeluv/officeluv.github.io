@@ -4,10 +4,6 @@ title: OfficeLuv Product Team
 ---
 <div class="item"><a href="/topics">Discussion Topics</a><a href="https://github.com/officeluv">Open Source Projects</a></div>
 
-## We are Hiring!
-
-- [Full-Stack Developer](https://officeluv.applytojob.com/apply/Lv6mQy0m2I/Full-Stack-Engineer?source=officeluv.github.io)
-
 ## Team Principles
 
 ### Trust & Accountability
