@@ -3,21 +3,30 @@
  d8P"      "Y8b, ,d8P"      "Y8b
 dP'           "8a8"           `Yd
 8(              "              )8
-I8                             8I
+I8       Take a break :)       8I
  Yb,                         ,dP
   "8a,                     ,a8"
     "8a,                 ,a8"
       "Yba             adP"
         `Y8a         a8P'
           `88,     ,88'
-            "8b   d8"  Hello from
-             "8b d8"   OfficeLuv
+            "8b   d8"
+             "8b d8"
               `888'
+
+
+/* INFO */
+
+    https://officeluv.github.io
 
 /* TEAM */
 
     Name: Josh Beckman (andjosh)
+    Location: Chicago
+
+    Name: Eleni Chappen
+    Location: Chicago
  
     Name: You?????
-    Site: mailto:josh@officeluv.com
+    Site: mailto:development@officeluv.com
     Location: Chicago
