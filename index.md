@@ -12,6 +12,9 @@ title: OfficeLuv Product Team
     <li>
         <a href="/topics">Discussion Topics</a>
     </li>
+    <li>
+        <a href="/code-reviews">Code Review Guidelines</a>
+    </li>
 </ul>
 
 ## Team Principles
