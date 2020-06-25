@@ -2,7 +2,17 @@
 layout: default
 title: OfficeLuv Product Team
 ---
-<div class="item"><a href="/topics">Discussion Topics</a><a href="https://github.com/officeluv">Open Source Projects</a></div>
+<ul>
+    <li>
+        <a href="https://github.com/officeluv">Open Source Projects</a>
+    </li>
+    <li>
+        <a href="/code-of-conduct">Code of Conduct</a>
+    </li>
+    <li>
+        <a href="/topics">Discussion Topics</a>
+    </li>
+</ul>
 
 ## Team Principles
 
