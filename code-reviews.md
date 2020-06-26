@@ -28,7 +28,8 @@ We also review applicant code samples as a group during our Code Review sessions
 ## OfficeLuv Code Review Guidelines
 - Adhere to our [code of conduct](/code-of-conduct)
 - Prefer asking open-ended questions over making opinionated statements
-- Make clear which comments are non-blocking or unimportant
+- Make clear which comments are non-blocking or unimportant (ideally adhering to [conventional comments syntax](https://conventionalcomments.org)) 
+- Use inline-change suggestions where possible to minimize minor editing workload on the originator
 - Before offering advice, understand the constraints the developer is working with
 - When reviewing feature code, table style discussions for later. Open a separate pull request to change any Rubocop or ESLint configs and review that separately.
 - Applaud good work; don't let it be only about criticism
