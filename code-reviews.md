@@ -17,7 +17,7 @@ Doing code reviews:
 
 ## How OfficeLuv Does Code Reviews
 
-We do code reviews once a day, all together, in person. Doing them this way makes knowledge sharing more efficient. Async reviews also can be requested throughout the day for any work that's blocking or more urgent.
+We do code reviews once a day, all together, in person or over video chat. Doing them this way makes knowledge sharing more efficient. Async reviews also can be requested throughout the day for any work that's blocking or more urgent.
 
 Each dev presents their code by briefly explaining the problem and their overall solution. The dev will walk the group through their code, pointing out anything they like or dislike about it. Other devs then ask questions and may give advice on different approaches. If there's nothing blocking the pull request at the end of this process, the code is merged.
 
