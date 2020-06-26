@@ -34,3 +34,8 @@ We also review applicant code samples as a group during our Code Review sessions
 - When reviewing feature code, table style discussions for later. Open a separate pull request to change any Rubocop or ESLint configs and review that separately.
 - Applaud good work; don't let it be only about criticism
 - Code reviews should build trust between all members of the team. Any behavior that diminishes trust should be changed.
+
+## Further Reading
+
+- [The benefits of daily code review](https://www.joshbeckman.org/2016/08/11/the-benefits-of-daily-code-review/)
+- [Conventional comments](https://conventionalcomments.org)
