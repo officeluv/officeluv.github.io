@@ -22,6 +22,8 @@ We do code reviews once a day, all together, in person or over video chat. Doing
 Each dev presents their code by briefly explaining the problem and their overall solution. The dev will walk the group through their code, pointing out anything they like or dislike about it. Other devs then ask questions and may give advice on different approaches. If there's nothing blocking the pull request at the end of this process, the code is merged.
 
 Every dev participates in the code review process the same way, regardless of seniority.
+Code Review is also a time reserved for reviewing external code. This can be open-source work members are currently working on, something they were proud of cracking, or just an interesting link or library.
+We also review applicant code samples as a group during our Code Review sessions - just as we would review our own code.
 
 ## OfficeLuv Code Review Guidelines
 - Adhere to our [code of conduct](/code-of-conduct)
