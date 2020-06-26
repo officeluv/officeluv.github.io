@@ -27,5 +27,5 @@ Every dev participates in the code review process the same way, regardless of se
 - Make clear which comments are non-blocking or unimportant
 - Before offering advice, understand the constraints the developer is working with
 - When reviewing feature code, table style discussions for later. Open a separate pull request to change any Rubocop or ESLint configs and review that separately.
-- Applaud good work; dont let it be only about criticism
+- Applaud good work; don't let it be only about criticism
 - Code reviews should build trust between all members of the team. Any behavior that diminishes trust should be changed.
