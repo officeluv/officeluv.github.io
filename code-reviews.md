@@ -10,6 +10,7 @@ Doing code reviews:
 
 - shares knowledge of the codebase and business
 - catches bugs automated testing may not catch
+- uncovers optimizations and opportunities for collaboration that may otherwise stay siloed
 - uncovers blindspots we may have about the codebase
 - improves overall code quality and health
 - improves our communication skills
