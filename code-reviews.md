@@ -23,7 +23,8 @@ Each dev presents their code by briefly explaining the problem and their overall
 Every dev participates in the code review process the same way, regardless of seniority.
 
 ## OfficeLuv Code Review Guidelines
-- Prefer asking open-ended questions over opinionated statements
+- Adhere to our [code of conduct](/code-of-conduct)
+- Prefer asking open-ended questions over making opinionated statements
 - Make clear which comments are non-blocking or unimportant
 - Before offering advice, understand the constraints the developer is working with
 - When reviewing feature code, table style discussions for later. Open a separate pull request to change any Rubocop or ESLint configs and review that separately.
