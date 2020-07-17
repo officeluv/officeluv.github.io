@@ -10,10 +10,13 @@ title: OfficeLuv Product Team
         <a href="/code-of-conduct">Code of Conduct</a>
     </li>
     <li>
-        <a href="/topics">Discussion Topics</a>
+        <a href="/cycles">Development Cycles</a>
     </li>
     <li>
         <a href="/code-reviews">Code Review Guidelines</a>
+    </li>
+    <li>
+        <a href="/topics">Discussion Topics</a>
     </li>
 </ul>
 
