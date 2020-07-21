@@ -19,6 +19,9 @@ title: OfficeLuv Product Team
         <a href="/retrospectives">Retrospectives</a>
     </li>
     <li>
+        <a href="/takeaways">Takeaways</a>
+    </li>
+    <li>
         <a href="/topics">Discussion Topics</a>
     </li>
 </ul>

@@ -30,7 +30,7 @@ __Interesting Data__: We note down any interesting data pulled during the cycle 
 These data points allow us to check our current context against previous decisions' data.
 
 __Takeaways__: We reflect on the above and generate actionable notes for the team going forward.
-These sometimes yield tasks for team members to follow up on (documentation, tests, research, etc).
+These sometimes yield tasks for team members to follow up on (documentation, tests, research, etc). ([Read some examples](/takeaways).)
 
 __Wins__: We reflect on what went particularly well this cycle.
 Whenever possible here, we name the team members involved to best recognize and encourage great work.
