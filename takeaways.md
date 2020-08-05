@@ -8,6 +8,17 @@ Every week during our [retrospectives](/retrospectives), we like to document our
 
 We enjoy looking back through all the takeaways we've collected over the years, and thought some of them could be useful to others, especially to those interested in Ruby on Rails or React.js.
 
+### August 5, 2020
+- Make sure the docs you’re reading pertain to the library version you want to use.
+- Improving search results relevance requires a lot of refinements and experimentation over time.
+
+### July 29, 2020
+- _Always_ check that the feature you’re trying to implement is supported by your current plan/level in your vendor.
+
+### July 22, 2020
+- Your userbase probably has multiple types of users, one of which is likely your own internal employees.
+- Features built for individual users have a good chance of being replicated for user groups and vice versa.
+
 ### July 15, 2020
 - [React] Having consistent API responses and redux schemas makes reusing React components a lot easier.
 - CI outages/bugs are good reminders of how much we rely on a stable CI pipeline for peace of mind.
