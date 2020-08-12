@@ -8,6 +8,11 @@ Every week during our [retrospectives](/retrospectives), we like to document our
 
 We enjoy looking back through all the takeaways we've collected over the years, and thought some of them could be useful to others, especially to those interested in Ruby on Rails or React.js.
 
+### August 12, 2020
+- The smallest changes can have big impacts on our internal users (e.g. sending Slack messages to a common channel).
+- Our demo/sales environment is always much more different from production than we think.
+- Don't rely on dependencies of your dependencies (or things will break when the stated dependency is removed).
+
 ### August 5, 2020
 - Make sure the docs you’re reading pertain to the library version you want to use.
 - Improving search results relevance requires a lot of refinements and experimentation over time.
