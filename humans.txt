@@ -17,14 +17,11 @@ I8       Take a break :)       8I
 
 /* INFO */
 
-    https://officeluv.github.io
+    https://www.officeluv.com
 
 /* TEAM */
 
     Name: Josh Beckman (andjosh)
-    Location: Chicago
-
-    Name: Eleni Chappen
     Location: Chicago
  
     Name: You?????
