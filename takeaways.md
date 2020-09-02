@@ -8,6 +8,13 @@ Every week during our [retrospectives](/retrospectives), we like to document our
 
 We enjoy looking back through all the takeaways we've collected over the years, and thought some of them could be useful to others, especially to those interested in Ruby on Rails or React.js.
 
+### August 26, 2020
+- More flexibility in configuration = more rules to follow.
+
+### August 19, 2020
+- Smaller design/UX issues can easily open up larger ones.
+- When planning out new features, keep in mind how you would explain how the feature works to the rest of the company.
+
 ### August 12, 2020
 - The smallest changes can have big impacts on our internal users (e.g. sending Slack messages to a common channel).
 - Our demo/sales environment is always much more different from production than we think.
