@@ -8,6 +8,10 @@ Every week during our [retrospectives](/retrospectives), we like to document our
 
 We enjoy looking back through all the takeaways we've collected over the years, and thought some of them could be useful to others, especially to those interested in Ruby on Rails or React.js.
 
+### September 9, 2020
+- SQL code, just like procedural code, can usually be refactored/reordered for speed improvements.
+- People will eventually always forget about the default value in a form and have issues when they submit the default value accidentally.
+
 ### August 26, 2020
 - More flexibility in configuration = more rules to follow.
 
