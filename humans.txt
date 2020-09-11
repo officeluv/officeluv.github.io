@@ -20,9 +20,6 @@ I8       Take a break :)       8I
     https://www.officeluv.com
 
 /* TEAM */
-
-    Name: Josh Beckman (andjosh)
-    Location: Chicago
  
     Name: You?????
     Site: mailto:development@officeluv.com
